@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25442'
     url: http://www.gutenberg.org/2009/agents/25442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22607#The-Book-Hunter-in-LondonHistorical-and-Other-Studies-of-Collectors-and-Collecting
 gutenberg_bookshelf: Bibliomania
 gutenberg_issued: '2007-09-15'
 gutenberg_type: Text
