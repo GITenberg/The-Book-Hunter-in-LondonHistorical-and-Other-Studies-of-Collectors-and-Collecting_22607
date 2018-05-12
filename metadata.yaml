@@ -1,0 +1,32 @@
+_repo: The-Book-Hunter-in-LondonHistorical-and-Other-Studies-of-Collectors-and-Collecting_22607
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22607-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, W. (William)
+    alias: Roberts, William
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '25442'
+    url: http://www.gutenberg.org/2009/agents/25442
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Booksellers and bookselling -- England -- London'
+- !lcsh 'Bibliomania'
+- !lcsh 'Book collecting'
+- !lcc 'Z'
+title: 'The Book-Hunter in London
+
+  Historical and Other Studies of Collectors and Collecting'
+url: http://www.gutenberg.org/ebooks/22607
